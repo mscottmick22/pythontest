@@ -1,3 +1,4 @@
+# BRANCH TEST ADDED
 # Taking user input# Taking user input
 number = int(input("Enter a number: "))
 
